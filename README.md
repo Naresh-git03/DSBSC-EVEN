@@ -45,12 +45,11 @@ s=s1-s2;
 subplot(3,1,3);
 plot(t,s);
 ```
-Output Graph
+Output Graph:
 ![fab783a2-146f-4de2-b17a-4a78af45e06b](https://github.com/user-attachments/assets/3c7d12c2-a035-488e-b71a-30444374e5c3)
 
-Tablular Column
+Tablular Column:
 ![ced5cd0c-321e-45ca-9762-2a88f37eef47](https://github.com/user-attachments/assets/8c6a5d37-9490-440e-b0ab-3bcb00f74205)
 
-Result
-
+Result:
 Thus the DSB-SC-AM Modulation and Demodulation is generated.
